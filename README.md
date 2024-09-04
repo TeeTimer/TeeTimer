@@ -1,5 +1,11 @@
 # 👋 Hi there! I'm Chef from Thailand
 
+<style>
+    .application-main {
+        background-color: red;
+    }
+</style>
+
 Welcome to my GitHub! I'm a skilled developer with NextJS
 
 ### 🛠️ Technologies & Tools
