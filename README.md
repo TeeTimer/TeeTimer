@@ -13,6 +13,7 @@ Welcome to my GitHub! I'm a skilled developer with NextJS
   - ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  - ![Rust](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=rust&logoColor=white)
 - **Frameworks:**
   - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
   - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
